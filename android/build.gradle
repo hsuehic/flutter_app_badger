@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace "me.leolin.shortcutbadger"
-    compileSdkVersion 29
+    compileSdkVersion 34
 
     defaultConfig {
         minSdkVersion 16
